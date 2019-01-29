@@ -12,13 +12,3 @@ It is specified in run to use python3 for running.
 
 
 
-
-Final comment
-
-Dear Insight Data Engineering team,
-
-Thank you so much for giving me this opportunity again. I am very sorry for the late submission.
-
-Through doing this challenge, I again feel that most efficient way to learn is by practicing. I fell that CS fundamentals are so important in data engineering because it’s running into many problems that are CS related, many of them are pure knowledge that are hard to get from deduction. 
-
-About this particular problem, I did rewrite my code a few times because of the efficiency issue and it’s nice to get a recap of detailed process even though using pandas is easier. I learned that everyone’s code is wrong from the bridge the gap series, mine definitely is as well. Even though this looks like a simple task, I still ran into problems I am not familiar with. Overall, the coding challenge itself is a great learning opportunity to me.  
